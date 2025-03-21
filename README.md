@@ -16,3 +16,23 @@ Master's student at UW Madison
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashShanmuka&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+# Your Name's Portfolio
+
+This is my personal portfolio hosted with GitHub Pages using the Cayman theme.
+
+## 🚀 About Me
+I'm a web developer passionate about building creative and user-friendly web experiences. I specialize in front-end development and love working on side projects.
+
+## 📁 Projects
+- **Project One**: [View Project](#)
+- **Project Two**: [View Project](#)
+- **Project Three**: [View Project](#)
+
+## 📫 Contact
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- GitHub: [Your GitHub Profile](https://github.com)
+
+---
+> Built with ❤️ using [GitHub Pages](https://pages.github.com/) and the Cayman theme.
