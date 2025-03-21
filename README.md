@@ -26,7 +26,7 @@ This is my personal portfolio hosted with GitHub Pages using the Cayman theme.
 I'm a web developer passionate about building creative and user-friendly web experiences. I specialize in front-end development and love working on side projects.
 
 ## 📁 Projects
-- **Project One**: [View Project](#)
+- **Project One**: [View Project](https://github.com/SubhashShanmuka/Subhash-Shanmuka.github.io/blob/main/project-one.html)
 - **Project Two**: [View Project](#)
 - **Project Three**: [View Project](#)
 
